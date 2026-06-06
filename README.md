@@ -1,3 +1,7 @@
+# Hi 👋, I'm Lavanya
+🎓 MCA Graduate
+💻 Aspiring Software Developer
+🌱 Currently learning Full Stack Development and AI
 # 💫 About Me:
 Enthusiastic MCA graduate with hands-on experience in software development through academic projects and <br>research work. Skilled in Python, JavaScript, SQL, REST APIs, AWS, and full-stack web development. Developed <br>projects in computer vision, web applications, and IoT systems, demonstrating strong analytical and <br>problem-solving abilities. Published researcher at GCCMIEA-2025 International Conference with a keen interest in <br>software engineering and emerging technologies. Eager to contribute to a dynamic organization as a software <br>developer or software engineer while continuously learning and growing in the technology domain.
 
